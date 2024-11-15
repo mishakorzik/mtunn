@@ -16,16 +16,16 @@ In order to start the tunnel, you need to log in to your account and create a co
 ```yaml
 proto: http              # protocol type                 (http/tcp)
 target: 127.0.0.1:8080   # target host
-tunnel: 10500            # the port that will be opened
+tunnel: 10000            # the port that will be opened
 domain: none             # domain to your tunnel
 console: yes             # for tunnel control            (yes/no)
 firewall:
-  rate: 3                # anti ddos rate  0/1/2/3
+  rate: 2                # anti ddos rate  0/1/2/3
   vpn: yes               # allow connection from vpn     (yes/no)
   tor: yes               # allow connectiom from tor     (yes/no)
 network:
   compression: no        # use traffic compression       (yes/no)
-  buffer_size: 4096      # socket buffer size            (1024-4096)
+  buffer_size: 1024      # socket buffer size            (1024-4096)
 ping:
   method: icmp           # ping method                   (icmp/tcp)
 ```
