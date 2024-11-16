@@ -58,6 +58,8 @@ If you have the correct configuration, you will be able to start the tunnel and 
 
 ### Tunnel commands
 
+Instead of the name of the example.yml file, you can write your configuration name, but it must have the extension “.yml”.
+
 ```python
 # show tunnel current version
 python3 -m mtunn --version
@@ -72,7 +74,7 @@ python3 -m mtunn --console
 python3 -m mtunn --config example.yml
 ```
 
-Instead of the name of the example.yml file, you can write your configuration name, but it must have the extension “.yml”.
+When you register you can run tunnels but only on ports in the range from 10000 to 11000. You can change it in your quota settings.
 
 ### Screenshot
 
