@@ -80,7 +80,9 @@ When you register you can run tunnels but only on ports in the range from 10000 
 
 Here are examples of how to run and how the tunnel will work.
 
-<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/mtunn/refs/heads/main/IMG_20241115.jpg"/>
+<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/mtunn/refs/heads/main/IMG_20241116_2.jpg"/>
+<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/mtunn/refs/heads/main/IMG_20241116_3.jpg"/>
+<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/mtunn/refs/heads/main/IMG_20241116_1.jpg"/>
 
 In order to open ports through the tunnel you need to create a configuration file.
 
