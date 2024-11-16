@@ -25,7 +25,7 @@ import os, sys, time, json, threading, signal, argparse, curses, shutil, re
 import socket, platform, json, ipaddress, zlib, yaml, requests, itertools
 import subprocess as sp
 
-version = '1.0.6'
+version = '1.0.7'
 build = 'beta'
 
 global latest_conn
