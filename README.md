@@ -32,6 +32,9 @@ pip install ipaddress>=1.0.21
 curl -o mtunn.py https://raw.githubusercontent.com/mishakorzik/mtunn/refs/heads/main/mtunn.py
 ```
 
+Want to learn more about the tunnel update?  
+Then check out the details **[here](https://github.com/mishakorzik/mtunn/blob/main/FEATURES.md)**
+
 ## Config example's
 
 In order to start the tunnel, you need to log in to your account and create a configuration file.
