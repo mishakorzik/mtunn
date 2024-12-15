@@ -1,42 +1,30 @@
-# Issuer: C = UA, ST = Ivano-Frankivska oblast, L = Ivano-Frankivsk, O = he1zen networks, CN = he1zen-de1.hopto.org
-# Subject: C = UA, ST = Ivano-Frankivska oblast, L = Ivano-Frankivsk, O = he1zen networks, CN = he1zen-de1.hopto.org
-# Label: "he1zen networks"
-# Serial: 264511E79B033A7FD3E3C02E0CC6F4686951688A
-# MD5 Fingerprint: F3:50:5B:4A:45:C4:F3:7E:F2:B4:11:71:81:B4:D8:05
-# SHA1 Fingerprint: 20:67:CA:0A:00:5D:94:45:43:82:C6:79:3B:FC:41:64:07:66:1E:AB
-# SHA256 Fingerprint: 2F:DF:5D:20:F8:9F:A9:05:58:AE:56:C2:01:75:DF:33:71:06:AA:9B:F4:86:FC:A5:9B:7C:79:5C:7D:76:49:7D
------BEGIN CERTIFICATE-----
-MIIF2DCCA8CgAwIBAgIUJkUR55sDOn/T48AuDMb0aGlRaIowDQYJKoZIhvcNAQEL
+# Issuer: C = UA, ST = Ivano-Frankivska oblast, L = Ivano-Frankivsk, O = he1zen networks, CN = he1zen-de1.hopto.org                                                                                                 # Subject: C = UA, ST = Ivano-Frankivska oblast, L = Ivano-Frankivsk, O = he1zen networks, CN = he1zen-de1.hopto.org
+# Label: "he1zen networks"                                                                                # Serial: 3A94C96DE194C310B847C980EEFDBF3A52ED3C5E
+# MD5 Fingerprint: DF:09:E3:BE:27:81:5A:F7:4C:79:EF:3C:DD:4A:65:E6
+# SHA1 Fingerprint: 7F:7C:05:0F:82:D6:E0:CD:1B:04:C1:44:64:A7:CB:90:C3:0F:C0:84
+# SHA256 Fingerprint: 7C:D5:83:96:89:F5:47:11:39:8F:8A:F0:39:A7:AA:FC:13:0B:B5:F5:FA:E7:5B:45:E0:96:40:E9:56:A1:2F:21
+-----BEGIN CERTIFICATE-----                                                                               MIIE2DCCA0CgAwIBAgIUOpTJbeGUwxC4R8mA7v2/OlLtPF4wDQYJKoZIhvcNAQEL
 BQAwgYIxCzAJBgNVBAYTAlVBMSAwHgYDVQQIDBdJdmFuby1GcmFua2l2c2thIG9i
-bGFzdDEYMBYGA1UEBwwPSXZhbm8tRnJhbmtpdnNrMRgwFgYDVQQKDA9oZTF6ZW4g
-bmV0d29ya3MxHTAbBgNVBAMMFGhlMXplbi1kZTEuaG9wdG8ub3JnMCAXDTI0MTIx
-MzE2MTMxN1oYDzMwMjQwNDE1MTYxMzE3WjCBgjELMAkGA1UEBhMCVUExIDAeBgNV
-BAgMF0l2YW5vLUZyYW5raXZza2Egb2JsYXN0MRgwFgYDVQQHDA9JdmFuby1GcmFu
-a2l2c2sxGDAWBgNVBAoMD2hlMXplbiBuZXR3b3JrczEdMBsGA1UEAwwUaGUxemVu
-LWRlMS5ob3B0by5vcmcwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQDJ
-Fp7fjhaHb30MYCDu85lJxBWgFydlwxY3aw7N4HGdkTgeRCC7BumB5Rj0UAuSm1pH
-+t2GRIIVLfXfE+6sfVoSFl6fQtjyhPEnvrjhZ1wWmBx0FghgedN3TtvRfRB5vKYt
-arM/PAm+4xauVnkTkt2IMzZVZc5SdO5Tymrhwn5DPI6prm0TxwzTQgQY01FHAAPo
-NEj4UijoFZCejk0N/XC0ht8k5FuiUMd3pLgii9sQlV/9QDLERSHbX5qk+EAFXKl7
-pPnqO4ebUFzJD6M/hfycZzbcgwEvuHQsg8DZgfaz/9RUWnTTEEo/B4hyENXBq31J
-Zc2/zDkot2JWEknl5mZHEPvdPpWH5MBn3tPT+LHlstzwq5yjaakyomqqlxIJ9bZy
-t+FPMv4OJUqFWZ7RK5Xa8smkMkYj1xtmKa58TSS3xmptOLY6BX8b7M6vkQtK/v6i
-F32MYWvdTNlaCx/WUeUKqY7iB4RpR7nPmjGxNu5/WS3/qYd9StLqz9iRt1JCFmve
-ebvEjZeSfi7qWfZoO7FSN3RHQpsp/O4nck/KdJJjNiCHcznsjfxfQVJSGV5yeC/M
-oh9uavaH5+P7snlvwNHb0fF5/RvzPgpwbr7NUYMIYowb4e6sWyF+po1m7PAxG6s7
-+jKWspT4MwvaC2GPv7l6cvjt6t5sBg70ZudTNtWIGwIDAQABo0IwQDAfBgNVHREE
-GDAWghRoZTF6ZW4tZGUxLmhvcHRvLm9yZzAdBgNVHQ4EFgQU499Jz3/L5KHoD2P6
-CPHJWMnAxjAwDQYJKoZIhvcNAQELBQADggIBAFAfhYqGYAif5bVignG2GFgE+QYA
-2DQcWB/zRwGo6Abv/NFGcfkopGE7cDdZdJO3BFXFzD2RSUY2ODWy1AId6Qj3Cv1y
-ui+HFxXl62Dsq/oOSCcgm3YPYVAXC9n8fyL8Mv1/exzdgE+y4Ls2GNjfWKEoyo4V
-X8H6gBcN+sLx16Va3p4Qdp1QAt3iXZzyQbkovVtENNvPwxCqbAGQM+xz10RrSw6v
-n2W8BCyKUP0PtDKV5fvGWpMuacxKD8Y6oFXoBmLcRt5YdKSkwl9Ic5yZDIvIqDCv
-UjQMgsmixhSPnoA2vp5MiEIN/AmKWQ0nn88zC2SuO0EMBcJ5H2xYnqYw/g+OLL89
-JGp1YHblNychxYv2hNw0vFAcFXRBmmLQGMQprIXs32+RNtVyjgXv5lQFtMSWIxNd
-olJuxxDPaMf6DDwxhjmxCKU3vnPqruwrqYSSlzD2XDIFpxmFwjNaBQAS/UaR1GRv
-7uzoDDuc9ooq4M66Eq6skuVRUsJP0e6rrKWwOcqA0VNItp7A9JjiuyPHDKj8Ms/R
-deFsd3BPsWKev/QX2evw5MnA2iXnlYvEcQIxu4b3PLssnhbSFGxIrpVf4tf0ByM9
-alEEg/KBdgFzz7NMMmSuvVVCur7ebdSglfeAFM7odRtsBBl5TGAPcIkRTpSlwUKn
-Yxur7bVZ/hzIJYvF
+bGFzdDEYMBYGA1UEBwwPSXZhbm8tRnJhbmtpdnNrMRgwFgYDVQQKDA9oZTF6ZW4g                                          bmV0d29ya3MxHTAbBgNVBAMMFGhlMXplbi1kZTEuaG9wdG8ub3JnMCAXDTI0MTIx
+NTE1MDQwMloYDzMwMjQwNDE3MTUwNDAyWjCBgjELMAkGA1UEBhMCVUExIDAeBgNV
+BAgMF0l2YW5vLUZyYW5raXZza2Egb2JsYXN0MRgwFgYDVQQHDA9JdmFuby1GcmFu                                          a2l2c2sxGDAWBgNVBAoMD2hlMXplbiBuZXR3b3JrczEdMBsGA1UEAwwUaGUxemVu
+LWRlMS5ob3B0by5vcmcwggGiMA0GCSqGSIb3DQEBAQUAA4IBjwAwggGKAoIBgQCk
+A1Zo4YK8A9TypyoKYOSvQkmM1d+Y8mdzghaS5V4bEpVC6phUvV+FIZYGvCZ6goqt
+rlDyMagzKD2njvqBoLgznUPDH3oRJ2d+ncrPudddYBqi/CSb2AUEZwShqt5GdYYS
+GkiTWfSuFrD7yE0Zaf0Jckq6aqMA2wL7goI07X5GDx7dekFoHFjszcQ1Z1npJfYR
+KLLE9IRBucTEjumEobHKrEfa9ZzjyP5kv3GIq4ff5vxIhpSzBPvoL2zx5MFyZHN5
+aVMPWFBbetiI/1b58yzzIE7xmqLAooRG6CwDXplah96zXB51JqdpYoTOQhMb7kY0
+RLiIbTw1mY8x/U6QR4jEfhwat2O9AZ1kwl8+wb/hcZcVVUF45XmZI8s+/kxQAcDG
+ZRsPmRl8OHU5U8YOYk+wJPAFChtlJgatOQK/Cs7Gyi6T6YblpqSkAw3F/9aE4GLs
+tnvhTkupl1Ow+er7zVXGFlUH8xVoYkU6ux/c+R3MuEzZY3Rst1WZTfMrtRes/hUC
+AwEAAaNCMEAwHwYDVR0RBBgwFoIUaGUxemVuLWRlMS5ob3B0by5vcmcwHQYDVR0O
+BBYEFC+sDZ9YhRnh9BYsGPj2z4rKV2z+MA0GCSqGSIb3DQEBCwUAA4IBgQBYnRhF
+2VjAfBjdEzVzPfSzXTvwR11zv8tocoBxQh8o+g+dB/vOB9ib7nvGJs9sp9mR2Z1S
+4sda/o4+gluKoSaT4i8QrFjJSRP4CRaSkgnIdOYDmTzZO0bY+o4js8DtUxd8TZrg
+qSrOKjbi6cal87VucQs47ZvKSvqbAEFUlNA69ndDtAMyikFSXmaS7OoBWi23D/wI
+dcOrapn91ub+x9FzF/+hnqzTNr9WCg4qxx6xaspEy19FIALNHd00aH9XvnVTAabC
+Oiopir+VSaFi2Rv1+61OcAMhKRPP2fwm4LTDQzegHJY2QxXJ5iUJ7QaAe4eWHq40
+m2+ioq4xnNYInxGXR/8bjgWsptLYaML/2e6qOwTfqVWXKXRVZ7rM36botY9zEIGP
+Ad8uwLnZK688Fs1dOiAh4HMiN37pNaBO5gHWzBCUiDb+8EftEWQBJSYzysNgZc8j
+AgcmKg84ihjGr5RuUSuTq/WPg/GoK5mF3Vmqs+WeHEsXvq4tndjC0S3bY1o=
 -----END CERTIFICATE-----
-  
