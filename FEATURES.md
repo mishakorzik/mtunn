@@ -10,8 +10,7 @@
 - [x] Dual-stack support for IPv4 and IPv6 protocols.
 - [x] Secure console for managing active connections and monitoring their real-time status.
 - [x] QoS (Quality of Service) support for prioritizing traffic of critical applications.
-- [ ] Optimal adaptation to the system and its capabilities for effective multithreading.
-- [ ] Built-in HTTP header logging feature for websites operating over HTTP.
+- [x] Optimal adaptation to the system and its capabilities for effective multithreading.
 - [ ] Supports SOCKS5 proxy with and without authentication for tunnels.
 
 <details id="missing-code-coverage">
