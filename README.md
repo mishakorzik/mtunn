@@ -39,27 +39,27 @@ Then check out the details **[here](https://github.com/mishakorzik/mtunn/blob/ma
 In order to start the tunnel, you need to log in to your account and create a configuration file.
 
 ```yaml
-proto: tcp                # protocol type                        (http/tcp)
+proto: tcp                # protocol type                   (http/tcp)
 target: 127.0.0.1:25565   # target host
 tunnel: 10000             # port that will be opened
 domain: none              # domain to your tunnel
-console: true             # for tunnel control                   (true/false)
+console: true             # for tunnel control              (true/false)
 firewall:
-  whitelist: ["UA", "PL"] # whitelist only for asn and countries
-  blacklist: ["AS12345"]  # blacklist only for asn and countries
+  whitelist: ["UA", "PL"] # whitelist                       (asn, country, ip, cidr)
+  blacklist: ["AS12345"]  # blacklist                       (asn, country, ip, cidr)
   services:
-    vpn: allow            # connection to tunnel from vpn        (allow/deny)
-    tor: deny             # connectiom to tunnel from tor        (allow/deny)
+    vpn: allow            # connection to tunnel from vpn   (allow/deny)
+    tor: deny             # connectiom to tunnel from tor   (allow/deny)
   protection:
-    level: 3              # set anti ddos protection level       (0-5)
+    level: 3              # set anti ddos protection level  (0-5)
 network:
-  threading: true         # use multi threading                  (true/false)
-  bandwidth: nolimit      # limit bandwidth                      (ex. 20 mbits, 5 mbytes)
+  threading: true         # use multi threading             (true/false)
+  bandwidth: nolimit      # limit bandwidth                 (ex. 20 mbits, 5 mbytes)
   data:
-    compression: false    # use traffic compression              (true/false)
-    algorithm: zlib       # set compression algorithm            (zlib/gzip/lzma)
+    compression: false    # use traffic compression         (true/false)
+    algorithm: zlib       # set compression algorithm       (zlib/gzip/lzma)
 ping:
-  method: icmp            # ping method                          (icmp/tcp)
+  method: icmp            # ping method                     (icmp/tcp)
 ```
 
 <details id="missing-code-coverage">
@@ -116,7 +116,7 @@ When you register you can run tunnels but only on ports in the range from 10000 
 >>> import mtunn
 >>> mtunn.api.scan()
 [{'remote': 'he1zen-de1.hopto.org:10000', 'local': '127.0.0.1:25565', 'console': 7010}]
->>> 
+>>>
 ```
 
 **Execute commands on active tunnel (if enabled console)**
@@ -124,7 +124,7 @@ When you register you can run tunnels but only on ports in the range from 10000 
 >>> import mtunn
 >>> mtunn.api.execute(7010, "latency")
 '{"address": "185.14.92.125", "method": "icmp", "time": "27.1ms"}'
->>> 
+>>>
 ```
 
 * All commands that are in the console are also in the API and they are the same.
