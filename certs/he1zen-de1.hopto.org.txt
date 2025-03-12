@@ -1,9 +1,9 @@
 # Issuer: C = UA, ST = Ivano-Frankivska oblast, L = Ivano-Frankivsk, O = he1zen networks, CN = he1zen-de1.hopto.org
 # Subject: C = UA, ST = Ivano-Frankivska oblast, L = Ivano-Frankivsk, O = he1zen networks, CN = he1zen-de1.hopto.org
-serial: 7FB751D3467C1B2CC829EB6E3009C9BAFEDBCEC0
-MD5 Fingerprint: B3:87:02:CE:E9:ED:CE:FE:E4:9D:E5:B4:FB:E9:B9:66
-SHA1 Fingerprint: FA:CA:02:10:99:8F:60:63:9A:FD:E8:8F:FE:6B:C8:D6:28:93:63:0A
-SHA256 Fingerprint: AF:65:1E:B1:2D:B0:7B:95:FC:7D:1A:A8:E0:8B:0C:29:EB:43:2B:E2:F8:C2:49:F9:C5:EF:55:4F:92:70:71:FC
+# Serial: 7FB751D3467C1B2CC829EB6E3009C9BAFEDBCEC0
+# MD5 Fingerprint: B3:87:02:CE:E9:ED:CE:FE:E4:9D:E5:B4:FB:E9:B9:66
+# SHA1 Fingerprint: FA:CA:02:10:99:8F:60:63:9A:FD:E8:8F:FE:6B:C8:D6:28:93:63:0A
+# SHA256 Fingerprint: AF:65:1E:B1:2D:B0:7B:95:FC:7D:1A:A8:E0:8B:0C:29:EB:43:2B:E2:F8:C2:49:F9:C5:EF:55:4F:92:70:71:FC
 -----BEGIN CERTIFICATE-----
 MIIChzCCAg2gAwIBAgIUf7dR00Z8GyzIKetuMAnJuv7bzsAwCgYIKoZIzj0EAwIw
 gYIxCzAJBgNVBAYTAlVBMSAwHgYDVQQIDBdJdmFuby1GcmFua2l2c2thIG9ibGFz
