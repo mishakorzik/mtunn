@@ -27,4 +27,3 @@ j/xm0RkSLWHQAP8LVrXESxQiAbyYYcyY1U5/FfnSmoLkzBdld/ZtUZqG/VOj/5Bl
 je8q0V2BEq8d7mSbjbAdc9KGNZAWxVbPGY+dO1QfeFKyyfreD76T6qb6ePQ+f2hs
 cZ99Fm5gitv9Y9jUBbRG5BZ4gi9v0uMbsHY=
 -----END CERTIFICATE-----
-root@he1zen-de1:~/tunnel# nano cert
